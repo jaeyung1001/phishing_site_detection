@@ -22,3 +22,4 @@ Contains the main function for the system that removes all dependencies from Hac
 
 ## Language
 The code is written in python 2.7. Please check the [requirements](requirements.txt) for dependencies.
+Copyright (c) 2017, mjkim610 junshoong jaeyung1001 chojpsh1 ni5am
